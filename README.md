@@ -21,6 +21,8 @@ In accordance with the assignment guidelines, this implementation strictly utili
 2. BM25 (Default parameters)
 3. BM25 (Tuned parameters via Grid Search)
 
+[GitHub link](https://github.com/suvadipbhuiya2004/information_retrival_assignment_2)
+
 ## Directory Structure
 Ensure all the following files are in the same directory before running the code:
 * `model.py` (The main PyTerrier Python script)
